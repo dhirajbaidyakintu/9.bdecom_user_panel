@@ -1,0 +1,15 @@
+.onboardBanner{
+    width: 100% !important;
+    height: auto;
+    object-fit: cover;
+}
+
+.onboardForm{
+    margin-top: 100px;
+    margin-bottom: 70px;
+    width: 90%;
+}
+
+.onboard-Background{
+    background-color: #0E2A47;
+}

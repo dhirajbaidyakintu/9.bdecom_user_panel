@@ -1,0 +1,18 @@
+.breadcrumb{
+    background: #ffffff !important;
+    border-radius: 2px !important;
+    box-shadow: 0 0 3px 0 rgba(57, 78, 234, 0.1)!important;
+}
+
+.breadcrumb-item{
+    color: #08192B;
+    font-weight: 300!important;
+    text-decoration: none!important;
+    font-family: 'Roboto Condensed', sans-serif!important;
+
+}
+
+.breadcrumb-item:hover{
+    color: #ffffff!important;
+    text-decoration: none!important;
+}
